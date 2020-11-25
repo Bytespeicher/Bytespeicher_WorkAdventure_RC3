@@ -1,0 +1,61 @@
+{
+    "activeFile": "maps/Makerspace.tmx",
+    "expandedProjectPaths": [
+        "tilesets",
+        "maps",
+        "json",
+        "."
+    ],
+    "fileStates": {
+        "maps/Bytespeicher.tmx": {
+            "scale": 1.23759765625,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 320.78276651148116,
+                "y": 256.54541150477394
+            }
+        },
+        "maps/Bytespeicher.tmx#MSTischmKanal": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/Bytespeicher.tmx#housetileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/Bytespeicher.tmx#stuff": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/Makerspace.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 343,
+                "y": 234.5
+            }
+        },
+        "maps/Makerspace.tmx#MSTischmKanal": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#housetileset": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#stuff": {
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedExportFilter": "JSON map files (*.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "maps/Makerspace.tmx",
+        "maps/Bytespeicher.tmx"
+    ],
+    "project": "Bytespeicher.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx"
+    ],
+    "resizeMap.removeObjects": true
+}

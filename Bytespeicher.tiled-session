@@ -9,10 +9,10 @@
     "fileStates": {
         "maps/Bytespeicher.tmx": {
             "scale": 1.23759765625,
-            "selectedLayer": 3,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 320.78276651148116,
-                "y": 256.54541150477394
+                "x": 265.83760751203346,
+                "y": 426.228990767774
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -29,9 +29,9 @@
         },
         "maps/Makerspace.tmx": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 343,
+                "x": 342,
                 "y": 234.5
             }
         },

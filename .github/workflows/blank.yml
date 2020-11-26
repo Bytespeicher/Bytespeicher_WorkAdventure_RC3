@@ -23,5 +23,5 @@ jobs:
        with:
          room_id: ${{ secrets.MATRIX_ROOM_ID }}
          access_token: ${{ secrets.MATRIX_ACCESS_TOKEN }}
-         message: "New push or pull for https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3"
+         message: "New push or pull for [url]https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3[url]"
          server: "erfurt.chat"

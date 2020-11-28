@@ -11,8 +11,8 @@
             "scale": 1.23759765625,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 265.83760751203346,
-                "y": 426.228990767774
+                "x": 265.0295904679239,
+                "y": 424.612956679555
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -29,13 +29,16 @@
         },
         "maps/Makerspace.tmx": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 342,
                 "y": 234.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#MS_TILES_128X128_001": {
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#housetileset": {

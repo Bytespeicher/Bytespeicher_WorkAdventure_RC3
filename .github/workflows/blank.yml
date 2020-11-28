@@ -16,6 +16,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   ping_matrix:
+   if: github.repository_owner == 'Bytespeicher'
    runs-on: ubuntu-latest
    steps:
      - name: send message

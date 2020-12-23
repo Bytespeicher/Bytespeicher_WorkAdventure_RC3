@@ -1,18 +1,28 @@
 {
-    "activeFile": "maps/Makerspace.tmx",
+    "activeFile": "maps/Bytespeicher.tmx",
     "expandedProjectPaths": [
-        "tilesets",
-        "maps",
         "json",
-        "."
+        "maps",
+        ".",
+        "tilesets"
     ],
     "fileStates": {
+        "/Users/falk/Documents/tile/MSEinrichtung.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/MS_Set.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/BS_TILES_256X256.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "maps/Bytespeicher.tmx": {
             "scale": 1.23759765625,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 265.83760751203346,
-                "y": 426.228990767774
+                "x": 290.0781188353192,
+                "y": -58.581235697940485
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -29,10 +39,10 @@
         },
         "maps/Makerspace.tmx": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 342,
-                "y": 234.5
+                "x": 989,
+                "y": 558.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -49,13 +59,16 @@
     "map.lastUsedFormat": "tmx",
     "openFiles": [
         "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx"
+        "maps/Bytespeicher.tmx",
+        "maps/BS_TILES_256X256.tsx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/Bytespeicher.tmx",
-        "maps/Makerspace.tmx"
+        "maps/Makerspace.tmx",
+        "maps/BS_TILES_256X256.tsx",
+        "maps/Bytespeicher.tmx"
     ],
-    "resizeMap.removeObjects": true
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx"
 }

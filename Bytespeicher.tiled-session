@@ -2,9 +2,9 @@
     "activeFile": "maps/Bytespeicher.tmx",
     "expandedProjectPaths": [
         "json",
-        "maps",
+        "tilesets",
         ".",
-        "tilesets"
+        "maps"
     ],
     "fileStates": {
         "/Users/falk/Documents/tile/MSEinrichtung.tsx": {
@@ -18,11 +18,11 @@
             "scaleInEditor": 1
         },
         "maps/Bytespeicher.tmx": {
-            "scale": 1.23759765625,
+            "scale": 1.23,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 290.0781188353192,
-                "y": -58.581235697940485
+                "x": 285.3658536585366,
+                "y": -60.569105691056905
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -37,12 +37,16 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "maps/Kram.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "maps/Makerspace.tmx": {
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 989,
-                "y": 558.5
+                "x": 320,
+                "y": 250.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -60,12 +64,14 @@
     "openFiles": [
         "maps/Makerspace.tmx",
         "maps/Bytespeicher.tmx",
-        "maps/BS_TILES_256X256.tsx"
+        "maps/BS_TILES_256X256.tsx",
+        "maps/Kram.tsx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "maps/Makerspace.tmx",
+        "maps/Kram.tsx",
         "maps/BS_TILES_256X256.tsx",
         "maps/Bytespeicher.tmx"
     ],

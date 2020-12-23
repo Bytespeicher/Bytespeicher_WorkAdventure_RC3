@@ -57,8 +57,8 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/Bytespeicher.tmx",
-        "maps/Makerspace.tmx"
+        "maps/Makerspace.tmx",
+        "maps/Bytespeicher.tmx"
     ],
     "resizeMap.removeObjects": true
 }

@@ -68,10 +68,10 @@
         },
         "maps/Bytespeicher.tmx": {
             "scale": 1.23759765625,
-            "selectedLayer": 4,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 495.31444803913837,
-                "y": 399.56442831215975
+                "x": 567.227964964886,
+                "y": 533.6952576343408
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {

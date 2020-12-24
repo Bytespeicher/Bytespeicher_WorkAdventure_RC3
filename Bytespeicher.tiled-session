@@ -8,6 +8,9 @@
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "C:/Users/ssc/Documents/Private/Projects/MSEinrichtung.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1
@@ -106,11 +109,12 @@
             "scale": 2,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 320,
-                "y": 209.25
+                "x": 201,
+                "y": 73.25
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#MS_TILES_128X128_001": {

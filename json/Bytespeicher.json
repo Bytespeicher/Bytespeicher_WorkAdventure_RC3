@@ -283,19 +283,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":7,
-         "firstgid":120,
-         "image":"..\/tilesets\/pixeltestsprittes.png",
-         "imageheight":135,
-         "imagewidth":240,
-         "margin":0,
-         "name":"pixeltestsprittes",
-         "spacing":0,
-         "tilecount":28,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":30,
          "firstgid":148,
          "image":"..\/tilesets\/bskonf.png",

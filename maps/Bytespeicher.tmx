@@ -81,10 +81,11 @@
   <image source="../tilesets/MSTischmKanal.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="120" name="pixeltestsprittes" tilewidth="32" tileheight="32" tilecount="28" columns="7">
-  <image source="../../../../../Nextcloud/Multimedia/Bilder/Import/Galaxy_S6lite/Pictures/pixeltestsprittes.png" width="240" height="135"/>
+  <image source="../tilesets/bskonf.png" width="962" height="508"/>
+  <image source="../tilesets/pixeltestsprittes.png" width="240" height="135"/>
  </tileset>
  <tileset firstgid="148" name="bskonf" tilewidth="32" tileheight="32" tilecount="450" columns="30">
-  <image source="../../../../../Nextcloud/Multimedia/Bilder/Import/Galaxy_S6lite/Pictures/bskonf.png" width="962" height="508"/>
+  <image source="../tilesets/bskonf.png" width="962" height="508"/>
   <tile id="11">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -362,10 +363,10 @@
   </tile>
  </tileset>
  <tileset firstgid="598" name="bskonftop" tilewidth="32" tileheight="32" tilecount="450" columns="30">
-  <image source="../../../../../Nextcloud/Multimedia/Bilder/Import/Galaxy_S6lite/Pictures/bskonftop.png" width="962" height="508"/>
+  <image source="../tilesets/bskonftop.png" width="962" height="508"/>
  </tileset>
  <tileset firstgid="1048" name="bskonffurn" tilewidth="32" tileheight="32" tilecount="450" columns="30">
-  <image source="../../../../../Nextcloud/Multimedia/Bilder/Import/Galaxy_S6lite/Pictures/bskonffurn.png" width="962" height="508"/>
+  <image source="../tilesets/bskonffurn.png" width="962" height="508"/>
   <tile id="46">
    <properties>
     <property name="collides" type="bool" value="true"/>

@@ -1,25 +1,27 @@
 {
     "activeFile": "maps/Makerspace.tmx",
     "expandedProjectPaths": [
-        "tilesets",
         "maps",
+        ".",
         "json",
-        "."
+        "tilesets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "C:/Users/ssc/Documents/Private/Projects/MSEinrichtung.tsx": {
-            "dynamicWrapping": true
+            "dynamicWrapping": true,
+            "scaleInDock": 1
         },
         "C:/Users/ssc/Documents/Private/Projects/MS_Set.tsx": {
-            "dynamicWrapping": true
+            "dynamicWrapping": true,
+            "scaleInDock": 1
         },
         "json/Bytespeicher.json": {
             "scale": 0.86925,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 480.8743169398907,
-                "y": 570.0316364682199
+                "x": 495.82973828012666,
+                "y": 399.7699165947656
             }
         },
         "json/Bytespeicher.json#MSTischmKanal": {
@@ -48,8 +50,8 @@
             "scale": 1.35078125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320.55523423944476,
-                "y": 256.5182186234818
+                "x": 319.81492192018504,
+                "y": 255.77790630422209
             }
         },
         "json/main.json#MSTischmKanal": {
@@ -65,11 +67,12 @@
             "scale": 1.23759765625,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 820.9453168152766,
-                "y": 533.6952576343408
+                "x": 495.31444803913837,
+                "y": 399.56442831215975
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -103,8 +106,8 @@
             "scale": 2,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 201.5,
-                "y": 105.25
+                "x": 320,
+                "y": 209.25
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -128,14 +131,17 @@
     "map.lastUsedFormat": "tmx",
     "openFiles": [
         "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx"
+        "maps/Bytespeicher.tmx",
+        "json/main.json",
+        "json/Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "json/Bytespeicher.json",
-        "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx"
+        "json/main.json",
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true

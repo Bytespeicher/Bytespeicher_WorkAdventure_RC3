@@ -1,18 +1,28 @@
 {
-    "activeFile": "maps/Makerspace.tmx",
+    "activeFile": "maps/Bytespeicher.tmx",
     "expandedProjectPaths": [
-        "tilesets",
-        "maps",
         "json",
-        "."
+        "tilesets",
+        ".",
+        "maps"
     ],
     "fileStates": {
+        "/Users/falk/Documents/tile/MSEinrichtung.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/MS_Set.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/BS_TILES_256X256.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "maps/Bytespeicher.tmx": {
-            "scale": 1.23759765625,
+            "scale": 1.23,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 265.83760751203346,
-                "y": 426.228990767774
+                "x": 285.3658536585366,
+                "y": -60.569105691056905
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -27,12 +37,16 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "maps/Kram.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "maps/Makerspace.tmx": {
             "scale": 1,
-            "selectedLayer": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 342,
-                "y": 234.5
+                "x": 320,
+                "y": 250.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -49,13 +63,18 @@
     "map.lastUsedFormat": "tmx",
     "openFiles": [
         "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx"
+        "maps/Bytespeicher.tmx",
+        "maps/BS_TILES_256X256.tsx",
+        "maps/Kram.tsx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/Bytespeicher.tmx",
-        "maps/Makerspace.tmx"
+        "maps/Makerspace.tmx",
+        "maps/Kram.tsx",
+        "maps/BS_TILES_256X256.tsx",
+        "maps/Bytespeicher.tmx"
     ],
-    "resizeMap.removeObjects": true
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx"
 }

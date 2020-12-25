@@ -1,10 +1,10 @@
 {
-    "activeFile": "maps/Makerspace.tmx",
+    "activeFile": "json/Bytespeicher.json",
     "expandedProjectPaths": [
+        "tilesets",
         "maps",
         ".",
-        "json",
-        "tilesets"
+        "json"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -21,10 +21,10 @@
         },
         "json/Bytespeicher.json": {
             "scale": 0.86925,
-            "selectedLayer": 0,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 495.82973828012666,
-                "y": 399.7699165947656
+                "x": 496.9801553062987,
+                "y": 468.2197296519989
             }
         },
         "json/Bytespeicher.json#MSTischmKanal": {
@@ -54,7 +54,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 319.81492192018504,
-                "y": 255.77790630422209
+                "y": 255.40775014459226
             }
         },
         "json/main.json#MSTischmKanal": {
@@ -70,8 +70,8 @@
             "scale": 1.23759765625,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 567.227964964886,
-                "y": 533.6952576343408
+                "x": 495.31444803913837,
+                "y": 399.96843683421446
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -109,8 +109,8 @@
             "scale": 2,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 201,
-                "y": 73.25
+                "x": 331.5,
+                "y": 255.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -142,10 +142,10 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "json/Bytespeicher.json",
         "json/main.json",
+        "maps/Makerspace.tmx",
         "maps/Bytespeicher.tmx",
-        "maps/Makerspace.tmx"
+        "json/Bytespeicher.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true

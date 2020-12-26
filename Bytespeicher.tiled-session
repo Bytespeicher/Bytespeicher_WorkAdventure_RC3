@@ -1,10 +1,10 @@
 {
-    "activeFile": "maps/Bytespeicher.tmx",
+    "activeFile": "maps/Makerspace.tmx",
     "expandedProjectPaths": [
-        "tilesets",
-        "maps",
         ".",
-        "json"
+        "json",
+        "maps",
+        "tilesets"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -78,8 +78,8 @@
             "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 562,
-                "y": 556
+                "x": 480,
+                "y": 399.33333333333337
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -114,11 +114,11 @@
             "scaleInEditor": 1
         },
         "maps/Makerspace.tmx": {
-            "scale": 2,
-            "selectedLayer": 4,
+            "scale": 1.35078125,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 331.5,
-                "y": 105.5
+                "x": 358.3111625216888,
+                "y": 277.6171197223829
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -126,6 +126,12 @@
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#MS_TILES_128X128_001": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#bskonf": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#bskonffurn": {
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#housetileset": {
@@ -142,14 +148,15 @@
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "tmx",
     "openFiles": [
-        "maps/Bytespeicher.tmx"
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx",
         "json/main.json",
-        "maps/Bytespeicher.tmx",
         "json/Bytespeicher.json"
     ],
     "resizeMap.removeObjects": true,

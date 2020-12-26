@@ -3,8 +3,8 @@
     "expandedProjectPaths": [
         "tilesets",
         "maps",
-        "json",
-        "."
+        ".",
+        "json"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -53,13 +53,19 @@
         },
         "json/main.json": {
             "scale": 1.35078125,
-            "selectedLayer": 0,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 319.81492192018504,
-                "y": 255.40775014459226
+                "x": 358.3111625216888,
+                "y": 344.2452284557548
             }
         },
         "json/main.json#MSTischmKanal": {
+            "scaleInDock": 1
+        },
+        "json/main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "json/main.json#bskonffurn": {
             "scaleInDock": 1
         },
         "json/main.json#housetileset": {
@@ -69,11 +75,11 @@
             "scaleInDock": 1
         },
         "maps/Bytespeicher.tmx": {
-            "scale": 1.23759765625,
+            "scale": 1.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 652.8777716404957,
-                "y": 517.1309082300954
+                "x": 562,
+                "y": 556
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -112,7 +118,7 @@
             "selectedLayer": 4,
             "viewCenter": {
                 "x": 331.5,
-                "y": 255.5
+                "y": 105.5
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -141,9 +147,9 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
-        "maps/Bytespeicher.tmx",
-        "json/main.json",
         "maps/Makerspace.tmx",
+        "json/main.json",
+        "maps/Bytespeicher.tmx",
         "json/Bytespeicher.json"
     ],
     "resizeMap.removeObjects": true,

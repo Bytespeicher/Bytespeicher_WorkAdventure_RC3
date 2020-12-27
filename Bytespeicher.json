@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-spaces-north.json#start_chaoszone}"
+                 "value":"{<chaoszone>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":false,

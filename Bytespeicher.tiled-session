@@ -15,10 +15,10 @@
         },
         "Bytespeicher.tmx": {
             "scale": 1.5,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 397.3333333333333,
-                "y": 412
+                "x": 773.3333333333333,
+                "y": 506.66666666666663
             }
         },
         "Bytespeicher.tmx#bskonf": {
@@ -31,7 +31,8 @@
             "scaleInDock": 1
         },
         "Bytespeicher.tmx#chaos_zone_shared": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.tmx#housetileset": {
             "scaleInDock": 1
@@ -46,10 +47,10 @@
         },
         "Makerspace.tmx": {
             "scale": 1.15966796875,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
                 "x": 336.30315789473684,
-                "y": 331.99157894736845
+                "y": 251.79621052631583
             }
         },
         "Makerspace.tmx#MS_TILES_ef": {
@@ -218,7 +219,7 @@
         "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx",

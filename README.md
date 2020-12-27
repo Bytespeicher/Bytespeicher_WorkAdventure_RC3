@@ -42,6 +42,7 @@ A WorkAdventure map to be used during the rc3
 - *MS_Tiles_EF.png* created by fpf2000_R under CC0
 - bskonf.png, bskonffurn.png, bskonftop.png created by Chaos_99 under CC0
 - chaos_zone_shared by ChaosZone under GPLv3
+- worldExit by rc3 under GPLv3
 
 
 

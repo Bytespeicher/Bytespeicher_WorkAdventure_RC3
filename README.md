@@ -1,6 +1,10 @@
 # Bytespeicher_WorkAdventure_RC3
 A WorkAdventure map to be used during the rc3 
 
+## Preview
+![Bytespeicher preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/chaos_dev/Bytespeicher.png?raw=true)
+![Makerspace preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/chaos_dev/Makerspace.png?raw=true)
+
 
 ## Usage
 - Open in the [Tiled](https://thorbjorn.itch.io/tiled) editor 
@@ -10,7 +14,7 @@ A WorkAdventure map to be used during the rc3
 - export to .json
 - make sure all paths to the tilesets are relative in the .json
 - push to github
-- open https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/main/json/main.json
+- open https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/chaos_dev/json/main.json
 
 ## Get started and try your map from localhost
 - Get a local http server which allows cors for all requests

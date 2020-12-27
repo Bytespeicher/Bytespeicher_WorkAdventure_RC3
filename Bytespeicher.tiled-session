@@ -1,34 +1,71 @@
 {
-    "activeFile": "",
+    "activeFile": "maps/Bytespeicher.tmx",
     "expandedProjectPaths": [
-        ".",
-        "maps",
         "json",
+        "maps",
+        ".",
         "tilesets"
     ],
+    "exportAsImage.drawTileGrid": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "/Users/stephan/Downloads/WorkAdventure/MSEinrichtung.tsx": {
-            "dynamicWrapping": true,
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "/Users/stephan/Downloads/WorkAdventure/MS_Set.tsx": {
+        "C:/Users/ssc/Documents/Private/Projects/MSEinrichtung.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1
         },
-        "json/main.json": {
-            "scale": 1.2542968749999999,
-            "selectedLayer": 0,
+        "C:/Users/ssc/Documents/Private/Projects/MS_Set.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json": {
+            "scale": 0.86925,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 320.09965742759266,
-                "y": 256.31890376829654
+                "x": 496.9801553062987,
+                "y": 468.2197296519989
+            }
+        },
+        "json/Bytespeicher.json#MSTischmKanal": {
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#bskonftop": {
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#housetileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#pixeltestsprittes": {
+            "scaleInDock": 1
+        },
+        "json/Bytespeicher.json#stuff": {
+            "scaleInDock": 1
+        },
+        "json/main.json": {
+            "scale": 1.35078125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 358.3111625216888,
+                "y": 344.2452284557548
             }
         },
         "json/main.json#MSTischmKanal": {
+            "scaleInDock": 1
+        },
+        "json/main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "json/main.json#bskonffurn": {
             "scaleInDock": 1
         },
         "json/main.json#housetileset": {
@@ -42,91 +79,105 @@
             "scaleInEditor": 1
         },
         "maps/Bytespeicher.tmx": {
-            "scale": 1.23759765625,
-            "selectedLayer": 4,
+            "scale": 1.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 502.9906099581788,
-                "y": 366.4357295036692
+                "x": 496,
+                "y": 399.33333333333337
             }
-        },
-        "maps/Bytespeicher.tmx#BS_TILES_256X256": {
-            "dynamicWrapping": false,
-            "scaleInDock": 1
-        },
-        "maps/Bytespeicher.tmx#ChaosZone Shared": {
-            "scaleInDock": 1
-        },
-        "maps/Bytespeicher.tmx#MS Tiles": {
-            "scaleInDock": 1
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
-        "maps/Bytespeicher.tmx#housetileset": {
+        "maps/Bytespeicher.tmx#bskonf": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "maps/Bytespeicher.tmx#bskonffurn": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/Bytespeicher.tmx#bskonftop": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/Bytespeicher.tmx#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "maps/Bytespeicher.tmx#housetileset": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "maps/Bytespeicher.tmx#pixeltestsprittes": {
+            "scaleInDock": 1
+        },
         "maps/Bytespeicher.tmx#stuff": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "maps/Kram.tsx": {
-            "dynamicWrapping": false,
-            "scaleInDock": 1,
-            "scaleInEditor": 1
-        },
-        "maps/MS_TILES_128X128_001.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "maps/Makerspace.tmx": {
-            "scale": 1,
+            "scale": 1.35078125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 245.5,
-                "y": 348.5
+                "x": 335.3614806246385,
+                "y": 255.40775014459226
             }
-        },
-        "maps/Makerspace.tmx#Bunt": {
-            "scaleInDock": 1
-        },
-        "maps/Makerspace.tmx#MS Tiles": {
-            "dynamicWrapping": false,
-            "scaleInDock": 1
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
             "dynamicWrapping": false,
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#MS_TILES_128X128_001": {
-            "dynamicWrapping": true
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#bskonf": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#chaos_zone_shared": {
+            "scaleInDock": 1
         },
         "maps/Makerspace.tmx#housetileset": {
-            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "maps/Makerspace.tmx#pixeltestsprittes": {
             "scaleInDock": 1
         },
         "maps/Makerspace.tmx#stuff": {
+            "dynamicWrapping": false,
             "scaleInDock": 1
         }
     },
     "map.lastUsedExportFilter": "JSON map files (*.json)",
-    "map.lastUsedFormat": "tmx",
+    "map.lastUsedFormat": "json",
     "openFiles": [
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "maps/BS_TILES_256X256.tsx",
+        "maps/Kram.tsx",
         "maps/Makerspace.tmx",
         "maps/Bytespeicher.tmx",
-        "/Users/stephan/Downloads/WorkAdventure/MSEinrichtung.tsx",
-        "maps/Kram.tsx",
         "json/main.json",
-        "maps/BS_TILES_256X256.tsx",
-        "maps/MS_TILES_128X128_001.tsx"
+        "json/Bytespeicher.json"
     ],
     "resizeMap.removeObjects": true,
-    "tileset.embedInMap": true,
-    "tileset.lastUsedFormat": "tsx"
+    "tileset.embedInMap": true
 }

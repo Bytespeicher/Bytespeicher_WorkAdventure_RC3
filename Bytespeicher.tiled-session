@@ -1,10 +1,10 @@
 {
-    "activeFile": "Makerspace.tmx",
+    "activeFile": "Bytespeicher.tmx",
     "expandedProjectPaths": [
-        "maps",
         ".",
+        "json",
         "tilesets",
-        "json"
+        "maps"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -40,8 +40,8 @@
             "scale": 1.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 322.66666666666663,
-                "y": 603.3333333333333
+                "x": 322,
+                "y": 602.6666666666666
             }
         },
         "Bytespeicher.tmx#bskonf": {
@@ -155,7 +155,7 @@
             "selectedLayer": 7,
             "viewCenter": {
                 "x": 336.30315789473684,
-                "y": 256.97010526315785
+                "y": 256.10778947368425
             }
         },
         "main.json#MS_TILES_ef": {
@@ -268,15 +268,17 @@
     "map.lastUsedFormat": "json",
     "openFiles": [
         "Bytespeicher.tmx",
-        "Makerspace.tmx"
+        "Makerspace.tmx",
+        "main.json",
+        "Bytespeicher.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
         "Bytespeicher.json",
-        "Bytespeicher.tmx",
+        "main.json",
         "Makerspace.tmx",
+        "Bytespeicher.tmx",
         "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx",
         "maps/BS_TILES_256X256.tsx",

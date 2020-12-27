@@ -169,7 +169,7 @@
         "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx",

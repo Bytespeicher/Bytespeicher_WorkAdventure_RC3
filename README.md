@@ -2,8 +2,8 @@
 A WorkAdventure map to be used during the rc3 
 
 ## Preview
-![Bytespeicher preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/chaos_dev/Bytespeicher.png?raw=true)
-![Makerspace preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/chaos_dev/Makerspace.png?raw=true)
+![Bytespeicher preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/main/Bytespeicher.png?raw=true)
+![Makerspace preview](https://github.com/Bytespeicher/Bytespeicher_WorkAdventure_RC3/blob/main/Makerspace.png?raw=true)
 
 
 ## Usage

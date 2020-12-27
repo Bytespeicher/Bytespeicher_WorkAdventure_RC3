@@ -1,10 +1,10 @@
 {
-    "activeFile": "maps/Bytespeicher.tmx",
+    "activeFile": "maps/Makerspace.tmx",
     "expandedProjectPaths": [
-        "json",
+        "tilesets",
         "maps",
         ".",
-        "tilesets"
+        "json"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -82,8 +82,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 496,
-                "y": 399.33333333333337
+                "x": 495.3333333333333,
+                "y": 474.33333333333337
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -129,7 +129,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 335.3614806246385,
-                "y": 255.40775014459226
+                "y": 255.77790630422206
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -171,10 +171,10 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx",
         "maps/BS_TILES_256X256.tsx",
         "maps/Kram.tsx",
-        "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx",
         "json/main.json",
         "json/Bytespeicher.json"
     ],

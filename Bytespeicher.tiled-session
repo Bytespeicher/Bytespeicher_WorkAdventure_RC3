@@ -1,15 +1,65 @@
 {
-    "activeFile": "maps/Bytespeicher.tmx",
+    "activeFile": "Makerspace.tmx",
     "expandedProjectPaths": [
-        "json",
         "maps",
         ".",
-        "tilesets"
+        "tilesets",
+        "json"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bytespeicher.json": {
+            "scale": 0.7421875,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 497.178947368421,
+                "y": 400.1684210526316
+            }
+        },
+        "Bytespeicher.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#bskonftop": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 322.66666666666663,
+                "y": 603.3333333333333
+            }
+        },
+        "Bytespeicher.tmx#bskonf": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bytespeicher.tmx#bskonffurn": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bytespeicher.tmx#bskonftop": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx#chaos_zone_shared": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Bytespeicher.tmx#housetileset": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -19,6 +69,32 @@
         },
         "C:/Users/ssc/Documents/Private/Projects/MS_Set.tsx": {
             "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx": {
+            "scale": 1.15966796875,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 336.30315789473684,
+                "y": 250.07157894736847
+            }
+        },
+        "Makerspace.tmx#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#bskonf": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#housetileset": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#stuff": {
             "scaleInDock": 1
         },
         "json/Bytespeicher.json": {
@@ -74,6 +150,32 @@
         "json/main.json#stuff": {
             "scaleInDock": 1
         },
+        "main.json": {
+            "scale": 1.15966796875,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 336.30315789473684,
+                "y": 256.97010526315785
+            }
+        },
+        "main.json#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "main.json#bskonf": {
+            "scaleInDock": 1
+        },
+        "main.json#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "main.json#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "main.json#housetileset": {
+            "scaleInDock": 1
+        },
+        "main.json#stuff": {
+            "scaleInDock": 1
+        },
         "maps/BS_TILES_256X256.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -82,8 +184,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 496,
-                "y": 399.33333333333337
+                "x": 495.3333333333333,
+                "y": 474.33333333333337
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -129,7 +231,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 335.3614806246385,
-                "y": 255.40775014459226
+                "y": 255.77790630422206
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -165,16 +267,20 @@
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "maps/Bytespeicher.tmx",
-        "maps/Makerspace.tmx"
+        "Bytespeicher.tmx",
+        "Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
+        "Bytespeicher.json",
+        "Bytespeicher.tmx",
+        "Makerspace.tmx",
+        "maps/Bytespeicher.tmx",
+        "maps/Makerspace.tmx",
         "maps/BS_TILES_256X256.tsx",
         "maps/Kram.tsx",
-        "maps/Makerspace.tmx",
-        "maps/Bytespeicher.tmx",
         "json/main.json",
         "json/Bytespeicher.json"
     ],

@@ -1,10 +1,10 @@
 {
-    "activeFile": "",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
+        "tilesets",
         "json",
-        ".",
         "maps",
-        "tilesets"
+        "."
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -17,7 +17,7 @@
             "scale": 0.7421875,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.8315789473685,
+                "x": 497.178947368421,
                 "y": 398.82105263157894
             }
         },
@@ -153,7 +153,7 @@
         },
         "main.json": {
             "scale": 1.15966796875,
-            "selectedLayer": 10,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 336.30315789473684,
                 "y": 256.97010526315785
@@ -275,8 +275,8 @@
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
         "Bytespeicher.json",
+        "main.json",
         "Bytespeicher.tmx",
         "Makerspace.tmx",
         "maps/Bytespeicher.tmx",

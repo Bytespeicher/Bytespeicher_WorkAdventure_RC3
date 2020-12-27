@@ -13,12 +13,61 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Bytespeicher.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 397.3333333333333,
+                "y": 412
+            }
+        },
+        "Bytespeicher.tmx#bskonf": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx#bskonftop": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Bytespeicher.tmx#housetileset": {
+            "scaleInDock": 1
+        },
         "C:/Users/ssc/Documents/Private/Projects/MSEinrichtung.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1
         },
         "C:/Users/ssc/Documents/Private/Projects/MS_Set.tsx": {
             "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx": {
+            "scale": 1.15966796875,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 336.30315789473684,
+                "y": 256.10778947368425
+            }
+        },
+        "Makerspace.tmx#MS_TILES_ef": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#bskonf": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#bskonffurn": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#chaos_zone_shared": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#housetileset": {
+            "scaleInDock": 1
+        },
+        "Makerspace.tmx#stuff": {
             "scaleInDock": 1
         },
         "json/Bytespeicher.json": {
@@ -169,7 +218,7 @@
         "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx",

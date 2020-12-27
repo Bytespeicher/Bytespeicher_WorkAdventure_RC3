@@ -145,7 +145,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/housetileset.png",
+         "image":"tilesets\/housetileset.png",
          "imageheight":448,
          "imagewidth":256,
          "margin":0,
@@ -255,7 +255,7 @@
         {
          "columns":30,
          "firstgid":113,
-         "image":"..\/tilesets\/bskonf.png",
+         "image":"tilesets\/bskonf.png",
          "imageheight":508,
          "imagewidth":962,
          "margin":0,
@@ -413,7 +413,7 @@
         {
          "columns":30,
          "firstgid":563,
-         "image":"..\/tilesets\/bskonffurn.png",
+         "image":"tilesets\/bskonffurn.png",
          "imageheight":508,
          "imagewidth":962,
          "margin":0,
@@ -426,7 +426,7 @@
         {
          "columns":32,
          "firstgid":1013,
-         "image":"..\/tilesets\/chaos_zone_shared.png",
+         "image":"tilesets\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
@@ -439,7 +439,7 @@
         {
          "columns":4,
          "firstgid":3061,
-         "image":"..\/tilesets\/MS_TILES_ef.png",
+         "image":"tilesets\/MS_TILES_ef.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -452,7 +452,7 @@
         {
          "columns":3,
          "firstgid":3077,
-         "image":"..\/tilesets\/stuff.png",
+         "image":"tilesets\/stuff.png",
          "imageheight":64,
          "imagewidth":96,
          "margin":0,

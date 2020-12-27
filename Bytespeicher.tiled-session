@@ -82,8 +82,8 @@
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 469.3333333333333,
-                "y": 267.66666666666663
+                "x": 496,
+                "y": 399.33333333333337
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -128,8 +128,8 @@
             "scale": 1.35078125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 333.8808559861191,
-                "y": 266.8825910931174
+                "x": 335.3614806246385,
+                "y": 255.40775014459226
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -169,7 +169,7 @@
         "maps/Makerspace.tmx"
     ],
     "project": "Bytespeicher.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "maps/BS_TILES_256X256.tsx",
         "maps/Kram.tsx",

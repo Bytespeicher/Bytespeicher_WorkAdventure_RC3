@@ -80,10 +80,10 @@
         },
         "maps/Bytespeicher.tmx": {
             "scale": 1.5,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 264.66666666666663,
-                "y": 386.33333333333337
+                "x": 469.3333333333333,
+                "y": 267.66666666666663
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -109,7 +109,7 @@
         },
         "maps/Bytespeicher.tmx#housetileset": {
             "dynamicWrapping": false,
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "maps/Bytespeicher.tmx#pixeltestsprittes": {
@@ -128,8 +128,8 @@
             "scale": 1.35078125,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 334.62116830537883,
-                "y": 267.6229034123771
+                "x": 333.8808559861191,
+                "y": 266.8825910931174
             }
         },
         "maps/Makerspace.tmx#MSTischmKanal": {
@@ -163,7 +163,7 @@
         }
     },
     "map.lastUsedExportFilter": "JSON map files (*.json)",
-    "map.lastUsedFormat": "tmx",
+    "map.lastUsedFormat": "json",
     "openFiles": [
         "maps/Bytespeicher.tmx",
         "maps/Makerspace.tmx"

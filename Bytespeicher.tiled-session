@@ -1,10 +1,10 @@
 {
-    "activeFile": "Makerspace.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "maps",
+        "json",
         ".",
-        "tilesets",
-        "json"
+        "maps",
+        "tilesets"
     ],
     "exportAsImage.drawTileGrid": true,
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -15,14 +15,15 @@
         },
         "Bytespeicher.json": {
             "scale": 0.7421875,
-            "selectedLayer": 8,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 497.178947368421,
-                "y": 400.1684210526316
+                "x": 495.8315789473685,
+                "y": 398.82105263157894
             }
         },
         "Bytespeicher.json#bskonf": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "Bytespeicher.json#bskonffurn": {
             "scaleInDock": 1
@@ -40,8 +41,8 @@
             "scale": 1.5,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 322.66666666666663,
-                "y": 603.3333333333333
+                "x": 496,
+                "y": 399.33333333333337
             }
         },
         "Bytespeicher.tmx#bskonf": {
@@ -76,7 +77,7 @@
             "selectedLayer": 7,
             "viewCenter": {
                 "x": 336.30315789473684,
-                "y": 250.07157894736847
+                "y": 250.93389473684215
             }
         },
         "Makerspace.tmx#MS_TILES_ef": {
@@ -152,7 +153,7 @@
         },
         "main.json": {
             "scale": 1.15966796875,
-            "selectedLayer": 7,
+            "selectedLayer": 10,
             "viewCenter": {
                 "x": 336.30315789473684,
                 "y": 256.97010526315785
@@ -162,7 +163,8 @@
             "scaleInDock": 1
         },
         "main.json#bskonf": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#bskonffurn": {
             "scaleInDock": 1
@@ -267,8 +269,8 @@
     "map.lastUsedExportFilter": "JSON map files (*.json)",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "Bytespeicher.tmx",
-        "Makerspace.tmx"
+        "Bytespeicher.json",
+        "main.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "string",

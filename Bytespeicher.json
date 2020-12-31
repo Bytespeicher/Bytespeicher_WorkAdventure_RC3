@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<CS>\/main.json}"
+                 "value":"main.json#entrance"
                 }],
          "type":"tilelayer",
          "visible":true,

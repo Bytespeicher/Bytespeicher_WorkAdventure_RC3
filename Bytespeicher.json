@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Bytespeicher.json#entrance"
+                 "value":"{<CS>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

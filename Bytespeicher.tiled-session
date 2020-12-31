@@ -1,16 +1,61 @@
 {
     "activeFile": "maps/Bytespeicher.tmx",
     "expandedProjectPaths": [
-        "json",
-        "tilesets",
         ".",
+        "tilesets",
+        "json",
         "maps"
     ],
+    "file.lastUsedOpenFilter": "JSON map files (*.json)",
     "fileStates": {
         "/Users/falk/Documents/tile/MSEinrichtung.tsx": {
             "scaleInDock": 1
         },
         "/Users/falk/Documents/tile/MS_Set.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json": {
+            "scale": 0.19,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4015.7894736842104,
+                "y": 2718.421052631579
+            }
+        },
+        "/Users/falk/Documents/tile/shared/main.json#TilesetJahrmarkt": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#TilesetWinterDeko": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#Tileset_4cert": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#WinterCollection": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#c3gelb": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#cert_safety": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#chaosz0ne": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#cyberwehr_bttf": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#fantasy": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "/Users/falk/Documents/tile/shared/main.json#winter": {
             "scaleInDock": 1
         },
         "maps/BS_TILES_256X256.tsx": {
@@ -21,8 +66,8 @@
             "scale": 1.23,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 662.6016260162602,
-                "y": 497.15447154471536
+                "x": 262.19512195121956,
+                "y": 366.6666666666667
             }
         },
         "maps/Bytespeicher.tmx#MSTischmKanal": {
@@ -45,7 +90,7 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 320,
+                "x": 319,
                 "y": 250.5
             }
         },
@@ -65,12 +110,14 @@
         "maps/Makerspace.tmx",
         "maps/Bytespeicher.tmx",
         "maps/BS_TILES_256X256.tsx",
-        "maps/Kram.tsx"
+        "maps/Kram.tsx",
+        "/Users/falk/Documents/tile/shared/main.json"
     ],
     "project": "Bytespeicher.tiled-project",
     "property.type": "bool",
     "recentFiles": [
         "maps/Makerspace.tmx",
+        "/Users/falk/Documents/tile/shared/main.json",
         "maps/Kram.tsx",
         "maps/BS_TILES_256X256.tsx",
         "maps/Bytespeicher.tmx"

@@ -1,4 +1,11 @@
 # Bytespeicher_WorkAdventure_RC3
+
+**CAUTION: We have moved all of our git presence to [codeberg](https://codeberg.org/technikkultur-erfurt). This repo is an archive.**
+
+If you want to maintain this code, feel free to either fork this repository or migrate it to the group on [codeberg](https://codeberg.org/technikkultur-erfurt).
+
+---
+
 A WorkAdventure map to be used during the rc3 
 
 ## Preview
@@ -43,8 +50,3 @@ A WorkAdventure map to be used during the rc3
 - bskonf.png, bskonffurn.png, bskonftop.png created by Chaos_99 under CC0
 - chaos_zone_shared by ChaosZone under GPLv3
 - worldExit by rc3 under GPLv3
-
-
-
-
-
